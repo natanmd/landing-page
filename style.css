@@ -78,6 +78,9 @@ button{
     margin: auto;
 }
 
+.second-section {
+    margin-bottom: 100px;
+}
 .second-section .header {
     display: flex;
     justify-content: center;
