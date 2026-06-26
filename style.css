@@ -112,3 +112,36 @@ button{
     padding: 16px;
     font-size: 20px;
 }
+
+.third-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 400px;
+}
+
+.third-section .quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+    align-self: center;
+    max-width: 900px;
+}
+
+.third-section .artist {
+    font-weight: 700;
+    font-size: 20px;
+    align-self: flex-end;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    font-size: 24px;
+}
